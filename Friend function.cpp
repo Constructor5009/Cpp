@@ -1,3 +1,5 @@
+// Cpp program to demonstrate operator overloading of operator <<
+
 #include<iostream.h>
 #include<conio.h>
 class Time
