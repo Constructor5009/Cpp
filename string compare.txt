@@ -1,3 +1,4 @@
+// Program to demonstrate operator overloading of == operator for comparing 2 strings.
 #include <iostream>
 using namespace std;
 
